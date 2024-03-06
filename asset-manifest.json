@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AddYourJokes/static/css/main.143e24a3.css",
+    "main.js": "/AddYourJokes/static/js/main.f51d21f1.js",
+    "static/js/453.45287775.chunk.js": "/AddYourJokes/static/js/453.45287775.chunk.js",
+    "index.html": "/AddYourJokes/index.html",
+    "main.143e24a3.css.map": "/AddYourJokes/static/css/main.143e24a3.css.map",
+    "main.f51d21f1.js.map": "/AddYourJokes/static/js/main.f51d21f1.js.map",
+    "453.45287775.chunk.js.map": "/AddYourJokes/static/js/453.45287775.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.143e24a3.css",
+    "static/js/main.f51d21f1.js"
+  ]
+}
